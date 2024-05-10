@@ -30,7 +30,7 @@ I am El Gadi Salma, a young web developer passionate about digital creation. Tra
 
 <div width="100%" align="center"><a href="https://github.com/Elgadisalma/https://github.com/Elgadisalma/PolicyProtector" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=https://github.com/Elgadisalma/PolicyProtector&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Elgadisalma/https://github.com/Elgadisalma/ElgadiSalma_fil_rouge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=https://github.com/Elgadisalma/ElgadiSalma_fil_rouge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 ### Support Me
 
