@@ -32,8 +32,6 @@ I am El Gadi Salma, a young web developer passionate about digital creation. Tra
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Elgadisalma/https://github.com/Elgadisalma/ElgadiSalma_evento" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=https://github.com/Elgadisalma/ElgadiSalma_evento&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
