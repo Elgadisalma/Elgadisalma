@@ -1,11 +1,12 @@
-Hey there! 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Salma
+Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Salma
 ====================================================================================================================================
 
 ✨ Full-Stack Developer & Digital Creator ✨
 -------------
 
 I am El Gadi Salma, a young developer who loves turning coffee ☕ into code 💻... My enthusiasm and creativity make me motivated to explore new tech and ready to tackle new challenges in the world of web development.
-I believe in making tech both functional and beautiful! My superpower? Finding that perfect color palette while writing clean code. 
+I believe in making tech both functional and beautiful! 
+My superpower? Finding that perfect color palette while writing clean code. 
 
 * 🌍  Based in beautiful Morocco
 * ✉️  Let's chat! [elgadi.salma0@gmail.com](mailto:elgadi.salma0@gmail.com)
@@ -31,7 +32,7 @@ I believe in making tech both functional and beautiful! My superpower? Finding t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Elgadisalma/PolicyProtector" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=https://github.com/Elgadisalma/PolicyProtector&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Elgadisalma/ElgadiSalma_fil_rouge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=https://github.com/Elgadisalma/ElgadiSalma_fil_rouge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Elgadisalma/PolicyProtector" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=https://github.com/Elgadisalma/ElgadiSalma_fil_rouge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Elgadisalma/ElgadiSalma_fil_rouge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=https://github.com/Elgadisalma/ElgadiSalma_fil_rouge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br />
 
