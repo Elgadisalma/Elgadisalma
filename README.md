@@ -13,7 +13,7 @@ My superpower? Finding that perfect color palette while writing clean code.
 * 🎯  2025 Goal: Contribute more to open source
 * 🤝  I'm open to collaborating on interesting, creative projects
 
-###  Skills
+## 🛠️ Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -31,15 +31,10 @@ Check out my latest work and projects:
 
 [![Portfolio Preview](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elgadisalma.github.io/Portfolio/)
 
-### 📄 My GitHub Stats
-
-<a href="http://www.github.com/Elgadisalma"><img src="https://github-readme-stats.vercel.app/api?username=Elgadisalma&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Elgadisalma's GitHub stats" /></a>
-
 ### 🏆 Top Projects
 
 <div width="100%" align="center">
   
-  <!-- Row 1 -->
   <a href="https://github.com/Elgadisalma/ClientKeeper_Back" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=ClientKeeper_Back&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
@@ -47,10 +42,8 @@ Check out my latest work and projects:
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=ClientKeeper_Front&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   
-  <!-- Spacing -->
   <br/><br/><br/><br/><br/><br/><br/>
   
-  <!-- Row 2 -->
   <a href="https://github.com/Elgadisalma/ElgadiSalma_fil_rouge" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=ElgadiSalma_fil_rouge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
@@ -59,9 +52,7 @@ Check out my latest work and projects:
   </a>
 </div>
 
-### 📝 Project Descriptions
-
-#### [ClientKeeper (Full-Stack)](https://github.com/Elgadisalma/ClientKeeper_Back)
+#### [ClientKeeper](https://github.com/Elgadisalma/ClientKeeper_Back)
 **AI-powered banking retention system** that predicts customer churn risk using machine learning. Helps banks retain clients by identifying at-risk customers and suggesting personalized offers.
 
 #### [PharmaStock](https://github.com/Elgadisalma/ElgadiSalma_fil_rouge)
@@ -69,6 +60,11 @@ Check out my latest work and projects:
 
 #### [PigeonSkyRace](https://github.com/Elgadisalma/PigeonSkyRace)
 **Competitive pigeon racing analytics** backend that calculates flight distances, speeds, and rankings using geolocation data (latitude/longitude) for racing pigeon tournaments.
+
+### 📄 My GitHub Stats
+
+<a href="http://www.github.com/Elgadisalma"><img src="https://github-readme-stats.vercel.app/api?username=Elgadisalma&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Elgadisalma's GitHub stats" /></a>
+
 <br /><br /><br /><br />
 
 
