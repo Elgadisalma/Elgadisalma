@@ -24,15 +24,27 @@ My superpower? Finding that perfect color palette while writing clean code.
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/elgadisalma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Elgadisalma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/salma-elgadi-704265296/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+## 🌐 Portfolio
+
+Check out my latest work and projects:
+
+[![Portfolio Preview](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elgadisalma.github.io/Portfolio/)
+
+### My GitHub Stats
 
 <a href="http://www.github.com/Elgadisalma"><img src="https://github-readme-stats.vercel.app/api?username=Elgadisalma&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Elgadisalma's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Elgadisalma/PolicyProtector" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=https://github.com/Elgadisalma/ElgadiSalma_fil_rouge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Elgadisalma/ElgadiSalma_fil_rouge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=https://github.com/Elgadisalma/ElgadiSalma_fil_rouge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/Elgadisalma/ClientKeeper_Back" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=ClientKeeper_Back&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Elgadisalma/ElgadiSalma_fil_rouge" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgadisalma&repo=ElgadiSalma_fil_rouge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br />
 
