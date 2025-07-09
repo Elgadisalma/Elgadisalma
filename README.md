@@ -31,7 +31,7 @@ Check out my latest work and projects:
 
 [![Portfolio Preview](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elgadisalma.github.io/Portfolio/)
 
-### 🏆 Top Projects
+## 🏆 Top Projects
 
 <div width="100%" align="center">
   
@@ -52,6 +52,7 @@ Check out my latest work and projects:
   </a>
 </div>
 
+## Description
 #### [ClientKeeper](https://github.com/Elgadisalma/ClientKeeper_Back)
 **AI-powered banking retention system** that predicts customer churn risk using machine learning. Helps banks retain clients by identifying at-risk customers and suggesting personalized offers.
 
